@@ -1,1 +1,15 @@
-
+{
+  "row_1" : "bug_id",
+  "row_2" : "title",
+  "row_3" : "summary",
+  "row_4" : "enviroment,"
+  "row_5" : "steps to reproduce",
+  "row_6" : "precondition",
+  "row_7" : "severity",
+  "row_8" : "priority",
+  "row_9" : "attachments",
+  "row_10" : "actual result",
+  "row_11" : "expected result"
+  "row_12" : "author",
+  "row_13" : "assignet to"
+}
